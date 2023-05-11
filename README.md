@@ -1,2 +1,2 @@
 # CPU_Scheduling
-Implementation of CPU Scheduling in C Programming Language
+Implementation of CPU Scheduling Algorithms in C Programming Language
